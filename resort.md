@@ -45,12 +45,17 @@ B)	Versatilidade (datas, horarios das refeições, horarios das psicinas e dos e
 
 8.	Repita as iterações dentro do tempo necessário. 
 
-Programada	                                                                                  Ativa	Concluida	Bloqueada
-All Inclusive	                                                                              X		
-Versatilidade: Reservas e pacotes promocionais		                                                    X	
-Ambiencia: Treinamento de equipe e diversidade de pessoas ou grupos.			                                    X
-Atividades: Parque aquático, espaço de jogos, festas temáticas e auditóri com salão		                X	
-Bem estar e serviçoes adicionais: Spar e praticas integrativas.		                                    X	
+
+   
+|Programada|Ativa |Concluida | Bloqueada|
+|--|--|--|--|
+|All Inclusive  |X| | |
+|Versatilidade: Reservas e pacotes promocionais||X||
+|Ambiencia: Treinamento de equipe e diversidade de pessoas ou grupos.|||X|
+|Atividades: Parque aquático, espaço de jogos, festas temáticas e auditóri com salão||X||
+|Bem estar e serviçoes adicionais: Spar e praticas integrativas.||X||
+
+
 
 Critérios de aceitação
 
